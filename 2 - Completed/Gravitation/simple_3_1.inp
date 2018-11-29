@@ -1,0 +1,4 @@
+x	y	z	u	v	w	mass	dt	nIter	isplot	isproj	jump	ishold	iscenter	center	ispause
+0	0	0	0	0	0	1e4	1e-2	2.5e4	1	1	10	1	0	3	0
+100	0	0	0	10	0	1e0
+400	0	0	0	5	0	1e0
